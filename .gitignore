@@ -1,0 +1,12 @@
+# Игнорировать папки сборок
+/out/
+/Lab 1/out/
+/build/
+/bin/
+/obj/
+.vs/
+*.exe
+*.dll
+*.pdb
+*.log
+# и т.д.
