@@ -9,4 +9,6 @@
 *.dll
 *.pdb
 *.log
+/Lab3 Cmake C++17/build/
+
 # и т.д.
