@@ -10,5 +10,7 @@
 *.pdb
 *.log
 /Lab3 Cmake C++17/build/
-
-# и т.д.
+/Lab5/out/
+/Lab4/out/
+/Lab2 CMake C++17/out/
+# и т.д.	
